@@ -1,0 +1,10 @@
+---
+layout:  post
+title:  "New Blog"
+author:  "galaxy"
+header-style:  text
+catalog:  true
+tags:
+  - Web
+  - JavaScript
+---
